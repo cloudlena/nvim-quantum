@@ -16,7 +16,7 @@ Install this color scheme using your preferred Vim plugin manager, e.g. [Packer]
 
 ```lua
     use {
-        'mastertinner/nvim-quantum',
+        'cloudlena/nvim-quantum',
         config = function() require('quantum').setup() end,
     }
 ```
